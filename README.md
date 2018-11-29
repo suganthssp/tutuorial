@@ -1,2 +1,2 @@
-# tutuorial
+# tutorial
 this is for tutorial
